@@ -1,0 +1,13 @@
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\bin\Debug\trafik şikayet platformu.exe.config
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\bin\Debug\trafik şikayet platformu.exe
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\bin\Debug\trafik şikayet platformu.pdb
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik şikayet platformu.csprojResolveAssemblyReference.cache
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik_şikayet_platformu.Form1.resources
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik_şikayet_platformu.Form2.resources
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik_şikayet_platformu.Form3.resources
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik_şikayet_platformu.Form4.resources
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik_şikayet_platformu.Properties.Resources.resources
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik şikayet platformu.csproj.GenerateResource.Cache
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik şikayet platformu.csproj.CoreCompileInputs.cache
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik şikayet platformu.exe
+C:\Users\tutku\Desktop\projetrafikşikayet\trafik şikayet platformu\trafik şikayet platformu\obj\Debug\trafik şikayet platformu.pdb
